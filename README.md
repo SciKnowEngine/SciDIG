@@ -1,4 +1,4 @@
-# Deep Domain Instance Graphs (deepDIG)
+# Scientific Domain Instance Graphs (SciDIG)
 
 The underlying idea of this project is to develop linked data ontologies for given scientific domains and map data from sources into those representations based on the DIG toolset (http://dig.isi.edu). 
 
