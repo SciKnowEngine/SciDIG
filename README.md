@@ -3,6 +3,7 @@
 The underlying idea of this project is to develop linked data ontologies for given scientific domains and map data from sources into those representations based on ISI's 'Domain Insight Graph' (DIG) toolset as a development environment for our technology and our approach (http://dig.isi.edu). 
 
 The semantic model for this work is driven by the concstruct shown in Figure 1. 
+
 ![Cycles of Scientific Investigation](https://sciknowengine.github.io/img/ske/cosi7.png)
 **Figure 1: The Knowledge-Question-Experiment-Data ('KQED' model) of the Cycle of Scientific Investigation.**
 
